@@ -1,0 +1,10 @@
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\bin\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\bin\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\bin\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\bin\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\bin\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.pdb

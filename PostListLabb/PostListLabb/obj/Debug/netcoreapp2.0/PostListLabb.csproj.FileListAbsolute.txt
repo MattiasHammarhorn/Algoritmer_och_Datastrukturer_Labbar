@@ -1,0 +1,11 @@
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\bin\Debug\netcoreapp2.0\PostListLabb.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\bin\Debug\netcoreapp2.0\PostListLabb.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\bin\Debug\netcoreapp2.0\PostListLabb.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\bin\Debug\netcoreapp2.0\PostListLabb.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\bin\Debug\netcoreapp2.0\PostListLabb.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\obj\Debug\netcoreapp2.0\PostListLabb.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\obj\Debug\netcoreapp2.0\PostListLabb.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\obj\Debug\netcoreapp2.0\PostListLabb.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\obj\Debug\netcoreapp2.0\PostListLabb.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\obj\Debug\netcoreapp2.0\PostListLabb.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\PostListLabb\PostListLabb\obj\Debug\netcoreapp2.0\PostListLabb.pdb

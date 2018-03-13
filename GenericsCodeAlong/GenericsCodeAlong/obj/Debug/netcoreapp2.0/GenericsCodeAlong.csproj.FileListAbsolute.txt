@@ -1,0 +1,11 @@
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\bin\Debug\netcoreapp2.0\GenericsCodeAlong.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\bin\Debug\netcoreapp2.0\GenericsCodeAlong.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\bin\Debug\netcoreapp2.0\GenericsCodeAlong.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\bin\Debug\netcoreapp2.0\GenericsCodeAlong.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\bin\Debug\netcoreapp2.0\GenericsCodeAlong.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\obj\Debug\netcoreapp2.0\GenericsCodeAlong.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\obj\Debug\netcoreapp2.0\GenericsCodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\obj\Debug\netcoreapp2.0\GenericsCodeAlong.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\obj\Debug\netcoreapp2.0\GenericsCodeAlong.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\obj\Debug\netcoreapp2.0\GenericsCodeAlong.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsCodeAlong\GenericsCodeAlong\obj\Debug\netcoreapp2.0\GenericsCodeAlong.pdb
