@@ -102,10 +102,12 @@ namespace Inlämningsuppgift2
         public static T[] BubbleSort<T>(T[] arrayToSort) where T: IComparable<T>
         {
             bool continueSorting = true;    // Declare boolean for the for-loop condition
+            int i = 0;
 
-            for (int i = 0; i < arrayToSort.Length - 1 && continueSorting; i++) // Run iterations while the array still needs to be sorted
+            while (i < arrayToSort.Length - 1 && continueSorting) // Run iterations while the array still needs to be sorted
             {
                 continueSorting = false;
+                i++;
 
                 for (int j = 0; j < arrayToSort.Length - 1; j++)    // Run iterations and check if the current element in the array needs to be swapped
                 {
