@@ -1,0 +1,22 @@
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift 2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\netcoreapp2.0\Inlämningsuppgift2.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\netcoreapp2.0\Inlämningsuppgift2.pdb

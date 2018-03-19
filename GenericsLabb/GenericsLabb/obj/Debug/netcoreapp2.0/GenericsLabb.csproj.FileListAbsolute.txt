@@ -1,0 +1,11 @@
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\bin\Debug\netcoreapp2.0\GenericsLabb.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\bin\Debug\netcoreapp2.0\GenericsLabb.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\bin\Debug\netcoreapp2.0\GenericsLabb.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\bin\Debug\netcoreapp2.0\GenericsLabb.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\bin\Debug\netcoreapp2.0\GenericsLabb.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\obj\Debug\netcoreapp2.0\GenericsLabb.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\obj\Debug\netcoreapp2.0\GenericsLabb.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\obj\Debug\netcoreapp2.0\GenericsLabb.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\obj\Debug\netcoreapp2.0\GenericsLabb.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\obj\Debug\netcoreapp2.0\GenericsLabb.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\GenericsLabb\GenericsLabb\obj\Debug\netcoreapp2.0\GenericsLabb.pdb
