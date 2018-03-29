@@ -1,0 +1,11 @@
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\bin\Debug\netcoreapp2.0\Inlämningsuppgift3.deps.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\bin\Debug\netcoreapp2.0\Inlämningsuppgift3.runtimeconfig.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\bin\Debug\netcoreapp2.0\Inlämningsuppgift3.runtimeconfig.dev.json
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\bin\Debug\netcoreapp2.0\Inlämningsuppgift3.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\bin\Debug\netcoreapp2.0\Inlämningsuppgift3.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\obj\Debug\netcoreapp2.0\Inlämningsuppgift3.csprojResolveAssemblyReference.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\obj\Debug\netcoreapp2.0\Inlämningsuppgift3.csproj.CoreCompileInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\obj\Debug\netcoreapp2.0\Inlämningsuppgift3.AssemblyInfoInputs.cache
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\obj\Debug\netcoreapp2.0\Inlämningsuppgift3.AssemblyInfo.cs
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\obj\Debug\netcoreapp2.0\Inlämningsuppgift3.dll
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\Inlämningsuppgift3\Inlämningsuppgift3\obj\Debug\netcoreapp2.0\Inlämningsuppgift3.pdb
