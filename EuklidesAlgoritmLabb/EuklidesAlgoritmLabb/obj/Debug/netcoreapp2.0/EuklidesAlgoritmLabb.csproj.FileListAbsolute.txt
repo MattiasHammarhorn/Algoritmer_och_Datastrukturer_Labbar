@@ -8,3 +8,4 @@ C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAl
 C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.AssemblyInfo.cs
 C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.dll
 C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.pdb
+C:\Users\Roger och Stina\Desktop\Algoritmer och Datastrukturer Labbar\EuklidesAlgoritmLabb\EuklidesAlgoritmLabb\obj\Debug\netcoreapp2.0\EuklidesAlgoritmLabb.csprojResolveAssemblyReference.cache
